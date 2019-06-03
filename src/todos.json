@@ -1,0 +1,22 @@
+{
+    "tareas":[
+        {
+            "title": "tarea 1",
+            "responsible":"josef",
+            "description":"loren inpsun1",
+            "priority": "low"
+        },
+        {
+            "title": "tarea 2",
+            "responsible":"diana",
+            "description":"loren inpsun 2",
+            "priority": "meduin"
+        },
+        {
+            "title": "tarea 3",
+            "responsible":"josef",
+            "description":"loren inpsun 3",
+            "priority": "high"
+        }
+    ]
+}
